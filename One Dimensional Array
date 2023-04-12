@@ -1,4 +1,5 @@
-int  main( )
+ #include <stdio.h>
+ int  main( )
 {
 int  a[25], n, i ;
 printf(" Enter the Numbers of Array Element: ") ;
